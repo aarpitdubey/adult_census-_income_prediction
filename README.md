@@ -160,6 +160,7 @@ BUILD DOCKER IMAGE
 ```
 docker build -t <image_name>:<tagname> .
 ```
+.....
 > Note: Image name for docker must be lowercase
 
 
