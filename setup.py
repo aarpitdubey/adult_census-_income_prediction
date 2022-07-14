@@ -7,7 +7,7 @@ PROJECT_NAME="adult-census-ip"
 VERSION="0.0.1"
 AUTHOR="Arpit Dubey"
 DESCRIPTION="This is internship Project for FSDS Nov batch Machine Learning Project."
-PACKAGES=["housing"]
+PACKAGES=["censusip"]
 REQUIREMENT_FILE_NAME="requirements.txt"
 
 def get_requirements_list()->List[str]:
